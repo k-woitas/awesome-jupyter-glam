@@ -18,7 +18,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) notebook projects and gu
 
 ## Libraries
 
-[Zenodo API Notebook](guides/Zenodo_API_Notebook.ipynb) - Demonstration of how to query the Zenodo REST API via institutional affiliation.
+- [Zenodo API Notebook](guides/Zenodo_API_Notebook.ipynb) - Demonstration of how to query the Zenodo REST API via institutional affiliation.
 
 ---
 
