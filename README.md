@@ -18,13 +18,13 @@ A curated list of awesome [Jupyter](http://jupyter.org) notebook projects and gu
 
 ## Libraries
 
-- [Notebook Project]() - Your notebook project goes here...
+[Zenodo API Notebook](guides/Zenodo_API_Notebook.ipynb) - Demonstration of how to query the Zenodo REST API via institutional affiliation.
 
 ---
 
 ## Archives
 
-- [Notebook Project]() - Your notebook project goes here...
+- [OzGlam Data Workbench](https://github.com/wragge/ozglam-workbench) - Aimed at researchers in the humanities, collection of notebooks and tutorials to help explore data from Australian GLAM institutions (e.g. Trove API).
 
 ---
 
