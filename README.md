@@ -40,6 +40,8 @@ A curated list of awesome [Jupyter](http://jupyter.org) notebook projects and gu
 
 ## Articles/guides/tutorials/other resources
 
+- [Introduction to using APIs](https://github.com/staplegun/using-apis) - A 10 minute tutorial for non-programmers to learn how developers use APIs, that accesses real APIs from inside the web browser.
+
 - [Open Digital Archaeology Text (ODATE)](https://electricarchaeology.ca/2018/08/21/jupyter-notebooks-for-digital-archaeology-and-history-too/) - A collection of notebooks to learn how to use and explore archaeological data (Portable Antiquities Scheme Database, British Museum, Wikidata, Nomisma, Montreal LiDAR data, Tensorflow).
 
 ## Contributing
