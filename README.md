@@ -26,6 +26,12 @@ A curated list of awesome [Jupyter](http://jupyter.org) notebook projects and gu
 
 ---
 
+## Archives
+
+- [Notebook Project]() - Your notebook project goes here...
+
+---
+
 ## Museums
 
 - [Notebook Project]() - Your notebook project goes here...
