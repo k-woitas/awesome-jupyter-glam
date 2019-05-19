@@ -26,12 +26,6 @@ A curated list of awesome [Jupyter](http://jupyter.org) notebook projects and gu
 
 ---
 
-## Archives
-
-- [OzGlam Data Workbench](https://github.com/wragge/ozglam-workbench) - Aimed at researchers in the humanities, collection of notebooks and tutorials to help explore data from Australian GLAM institutions (e.g. Trove API).
-
----
-
 ## Museums
 
 - [Notebook Project]() - Your notebook project goes here...
@@ -39,6 +33,8 @@ A curated list of awesome [Jupyter](http://jupyter.org) notebook projects and gu
 ---
 
 ## Articles/guides/tutorials/other resources
+
+- [GLAM Workbench](https://glam-workbench.github.io/) - A growing collection of tools and examples to help you work with data from galleries, libraries, archives, and museums, focusing on Australia and New Zealand.
 
 - [Introduction to using APIs](https://github.com/staplegun/using-apis) - A 10 minute tutorial for non-programmers to learn how developers use APIs, that accesses real APIs from inside the web browser.
 
