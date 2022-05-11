@@ -20,6 +20,8 @@ A curated list of awesome [Jupyter](http://jupyter.org) notebook projects and gu
 
 - [Zenodo API Notebook](https://github.com/LibraryCarpentry/awesome-jupyter-glam/blob/master/notebooks-guides/Zenodo_API_Notebook.ipynb) - Demonstration of how to query the Zenodo REST API via institutional affiliation.
 
+- [OpenAlex API Notebook](https://github.com/ub-unibe-ch/ds-pytools/tree/main/Literature_handling) - Accessing comprehensive scholarly publication data, authors data, institutions data and more, licensed CC0
+
 - [LibCrowds Jupyter notebooks](https://github.com/LibCrowds/notebooks) - explore the data created via the British Library's [LibCrowds](http://libcrowds.com/) platform, which includes crowdsourced transcriptions of historic playbills and catalogue data from card catalogues.
 
 - [Library of Congress API Notebooks](https://github.com/LibraryOfCongress/data-exploration) - A collection of Jupyter Notebooks for exploring Library of Congress APIs and data.
